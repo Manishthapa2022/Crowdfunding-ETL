@@ -10,4 +10,4 @@ Independent Funding, acrwodfunding platform, has given the following tasks to be
 For this project, Jupyter notebook, pgAdmin 4 were used. 
 
 ## Results
-After carrying out the necessary analysis using various tools, two tables has been created for both Backers and Contacts of every Live campaign so that they can be approached to advise them regarding the current status of their respective campaigns.  
+After carrying out the necessary analysis using various tools, two tables has been created for both Backers and Contacts of every Live campaign so that they can be approached to advise them regarding the status of their respective campaigns and the pending amount required to achieve the goal.  
